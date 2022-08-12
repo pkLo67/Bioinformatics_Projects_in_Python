@@ -1,0 +1,1442 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.13.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_57343</BlastOutput_query-ID>
+  <BlastOutput_query-def>JQ250825.1 Homo sapiens interleukin 6 gene, complete cds</BlastOutput_query-def>
+  <BlastOutput_query-len>636</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_57343</Iteration_query-ID>
+  <Iteration_query-def>JQ250825.1 Homo sapiens interleukin 6 gene, complete cds</Iteration_query-def>
+  <Iteration_query-len>636</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|380861371|gb|JQ250825.1|</Hit_id>
+  <Hit_def>Homo sapiens interleukin 6 gene, complete cds</Hit_def>
+  <Hit_accession>JQ250825</Hit_accession>
+  <Hit_len>636</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1148.23</Hsp_bit-score>
+      <Hsp_score>1272</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>636</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>636</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1531243779|ref|NM_000600.5|</Hit_id>
+  <Hit_def>Homo sapiens interleukin 6 (IL6), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>NM_000600</Hit_accession>
+  <Hit_len>1127</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>702</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1142724618|emb|LT727607.1|</Hit_id>
+  <Hit_def>Vector pSP64GcHIL6, complete sequence</Hit_def>
+  <Hit_accession>LT727607</Hit_accession>
+  <Hit_len>4046</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>699</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|123981119|gb|DQ891463.2|</Hit_id>
+  <Hit_def>Synthetic construct clone IMAGE:100004093; FLH177154.01X; RZPDo839D08124D interleukin 6 (interferon, beta 2) (IL6) gene, encodes complete protein</Hit_def>
+  <Hit_accession>DQ891463</Hit_accession>
+  <Hit_len>679</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>661</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|54696361|gb|BT019748.1|</Hit_id>
+  <Hit_def>Homo sapiens interleukin 6 (interferon, beta 2) mRNA, complete cds &gt;gi|60824307|gb|AY893638.1| Synthetic construct Homo sapiens clone FLH131195.01X interleukin 6 (IL6) mRNA, complete cds &gt;gi|61357883|gb|AY888520.1| Synthetic construct Homo sapiens clone FLH008836.01X interleukin 6 (IL7) mRNA, complete cds &gt;gi|61360221|gb|AY888887.1| Synthetic construct Homo sapiens clone FLH030680.01X interleukin 6 (IL6) mRNA, complete cds</Hit_def>
+  <Hit_accession>BT019748</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|15930148|gb|BC015511.1|</Hit_id>
+  <Hit_def>Homo sapiens interleukin 6 (interferon, beta 2), mRNA (cDNA clone MGC:9215 IMAGE:3884652), complete cds</Hit_def>
+  <Hit_accession>BC015511</Hit_accession>
+  <Hit_len>1127</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>688</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|298303|gb|S56892.1|</Hit_id>
+  <Hit_def>interleukin-6 [human, tonsillar mononuclear cells, mRNA, 657 nt]</Hit_def>
+  <Hit_accession>S56892</Hit_accession>
+  <Hit_len>657</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>654</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|186351|gb|M54894.1|HUMIL6CSF</Hit_id>
+  <Hit_def>Human interleukin 6 mRNA, complete cds</Hit_def>
+  <Hit_accession>M54894</Hit_accession>
+  <Hit_len>1113</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>51</Hsp_hit-from>
+      <Hsp_hit-to>689</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|186349|gb|M29150.1|HUMIL6C</Hit_id>
+  <Hit_def>Human interleukin 6 (B-cell stimulatory factor-2) mRNA, complete cds</Hit_def>
+  <Hit_accession>M29150</Hit_accession>
+  <Hit_len>1102</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>674</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|184631|gb|M18403.1|HUMIFNB2B</Hit_id>
+  <Hit_def>Human hybridoma growth factor (interleukin 6) mRNA, complete cds</Hit_def>
+  <Hit_accession>M18403</Hit_accession>
+  <Hit_len>1125</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>63</Hsp_hit-from>
+      <Hsp_hit-to>701</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|33849|emb|X04602.1|</Hit_id>
+  <Hit_def>Human mRNA for interleukin BSF-2 (B-cell differentiation factor)</Hit_def>
+  <Hit_accession>X04602</Hit_accession>
+  <Hit_len>1098</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1138.31</Hsp_bit-score>
+      <Hsp_score>1261</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>672</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>636</Hsp_identity>
+      <Hsp_positive>636</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|123995926|gb|DQ894639.2|</Hit_id>
+  <Hit_def>Synthetic construct Homo sapiens clone IMAGE:100009099; FLH177151.01L; RZPDo839D08123D interleukin 6 (interferon, beta 2) (IL6) gene, encodes complete protein</Hit_def>
+  <Hit_accession>DQ894639</Hit_accession>
+  <Hit_len>679</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1134.7</Hsp_bit-score>
+      <Hsp_score>1257</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>634</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>659</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>634</Hsp_identity>
+      <Hsp_positive>634</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>637</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|54696319|gb|BT019727.1|</Hit_id>
+  <Hit_def>Synthetic construct Homo sapiens interleukin 6 (interferon, beta 2) mRNA, partial cds &gt;gi|54696321|gb|BT019728.1| Synthetic construct Homo sapiens interleukin 6 (interferon, beta 2) mRNA, partial cds &gt;gi|61368054|gb|AY891163.1| Synthetic construct Homo sapiens clone FLH008832.01L interleukin 6 (IL6) mRNA, partial cds &gt;gi|61368056|gb|AY891164.1| Synthetic construct Homo sapiens clone FLH008833.01L interleukin 6 (IL6) mRNA, partial cds &gt;gi|61370025|gb|AY891501.1| Synthetic construct Homo sapiens clone FLH030677.01L interleukin 6 (IL6) mRNA, partial cds</Hit_def>
+  <Hit_accession>BT019727</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1134.7</Hsp_bit-score>
+      <Hsp_score>1257</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>634</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>637</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>634</Hsp_identity>
+      <Hsp_positive>634</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>637</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|184628|gb|M14584.1|HUMIFNB2</Hit_id>
+  <Hit_def>Human interleukin 6 mRNA, complete cds</Hit_def>
+  <Hit_accession>M14584</Hit_accession>
+  <Hit_len>1128</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1133.8</Hsp_bit-score>
+      <Hsp_score>1256</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>702</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>635</Hsp_identity>
+      <Hsp_positive>635</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTCCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|32673|emb|X04430.1|</Hit_id>
+  <Hit_def>Human IFN-beta 2a mRNA for interferon-beta-2</Hit_def>
+  <Hit_accession>X04430</Hit_accession>
+  <Hit_len>1145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1133.8</Hsp_bit-score>
+      <Hsp_score>1256</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>87</Hsp_hit-from>
+      <Hsp_hit-to>725</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>635</Hsp_identity>
+      <Hsp_positive>635</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTCCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|261860081|dbj|AB528399.1|</Hit_id>
+  <Hit_def>Synthetic construct DNA, clone: pF1KE1084, Homo sapiens IL6 gene for interleukin 6, without stop codon, in Flexi system</Hit_def>
+  <Hit_accession>AB528399</Hit_accession>
+  <Hit_len>653</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1132.9</Hsp_bit-score>
+      <Hsp_score>1255</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>633</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>645</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>633</Hsp_identity>
+      <Hsp_positive>633</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>636</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|47496538|emb|CR450296.1|</Hit_id>
+  <Hit_def>Homo sapiens full open reading frame cDNA clone RZPDo834C041D for gene IL6, interleukin 6 (interferon, beta 2); complete cds; without stopcodon</Hit_def>
+  <Hit_accession>CR450296</Hit_accession>
+  <Hit_len>636</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1132.9</Hsp_bit-score>
+      <Hsp_score>1255</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>633</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>636</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>633</Hsp_identity>
+      <Hsp_positive>633</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>636</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1849160902|ref|XM_008960059.4|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_008960059</Hit_accession>
+  <Hit_len>1157</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1129.29</Hsp_bit-score>
+      <Hsp_score>1251</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>94</Hsp_hit-from>
+      <Hsp_hit-to>732</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>634</Hsp_identity>
+      <Hsp_positive>634</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|1034060334|ref|XM_518992.6|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_518992</Hit_accession>
+  <Hit_len>1210</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1129.29</Hsp_bit-score>
+      <Hsp_score>1251</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>143</Hsp_hit-from>
+      <Hsp_hit-to>781</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>634</Hsp_identity>
+      <Hsp_positive>634</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|54696363|gb|BT019749.1|</Hit_id>
+  <Hit_def>Homo sapiens interleukin 6 (interferon, beta 2) mRNA, complete cds &gt;gi|61357890|gb|AY888521.1| Synthetic construct Homo sapiens clone FLH008837.01X interleukin 6 (IL6) mRNA, complete cds</Hit_def>
+  <Hit_accession>BT019749</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1129.29</Hsp_bit-score>
+      <Hsp_score>1251</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>634</Hsp_identity>
+      <Hsp_positive>634</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATACTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTTCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|1753082866|ref|XM_019031795.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_019031795</Hit_accession>
+  <Hit_len>1180</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1120.28</Hsp_bit-score>
+      <Hsp_score>1241</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>117</Hsp_hit-from>
+      <Hsp_hit-to>755</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>632</Hsp_identity>
+      <Hsp_positive>632</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCCAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGTAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|686725641|ref|XM_002818159.3|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_002818159</Hit_accession>
+  <Hit_len>1237</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1102.24</Hsp_bit-score>
+      <Hsp_score>1221</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>172</Hsp_hit-from>
+      <Hsp_hit-to>810</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>628</Hsp_identity>
+      <Hsp_positive>628</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTACCTGCCCCAGTACCACCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACTTGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACTACCCCTGACCCAACCACGAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||| |||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|1743147995|ref|XM_003252642.3|</Hit_id>
+  <Hit_def>PREDICTED: Nomascus leucogenys interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_003252642</Hit_accession>
+  <Hit_len>1142</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1097.73</Hsp_bit-score>
+      <Hsp_score>1216</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>79</Hsp_hit-from>
+      <Hsp_hit-to>717</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>627</Hsp_identity>
+      <Hsp_positive>627</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGTAGAAAACAACCTGAACCTTCCAAAGATGGCTGCAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTGGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACTCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTACAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|1820540816|ref|XM_032759555.1|</Hit_id>
+  <Hit_def>PREDICTED: Hylobates moloch interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_032759555</Hit_accession>
+  <Hit_len>1185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1088.72</Hsp_bit-score>
+      <Hsp_score>1206</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>122</Hsp_hit-from>
+      <Hsp_hit-to>760</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>625</Hsp_identity>
+      <Hsp_positive>625</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGTAGAAAACAACCTGAACCTTCCAAAGATGGCTGCAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTAGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTGGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACTCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTACAGCCTGAGGGCTCTTCGGCAGATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||||||||||||||||||||||| ||||||||||||||||||||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|4102681|gb|AF014510.1|</Hit_id>
+  <Hit_def>Aotus nancymaae interleukin-6 (IL-6) mRNA, partial cds</Hit_def>
+  <Hit_accession>AF014510</Hit_accession>
+  <Hit_len>628</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1082.41</Hsp_bit-score>
+      <Hsp_score>1199</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>625</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>628</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>617</Hsp_identity>
+      <Hsp_positive>617</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>628</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTC</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCAGACCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGATGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGAGGTAGCCGCCCCAAACAGACAGCCACTCACCTCTACAGAACAAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTC</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||| | ||||||||||||||||||   |||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||| |||||||||||||||||||| |||||| |||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|208436711|gb|FJ194486.1|</Hit_id>
+  <Hit_def>Chlorocebus sabaeus clone AMGcl1 interleukin-6 (IL-6) mRNA, complete cds</Hit_def>
+  <Hit_accession>FJ194486</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1076.09</Hsp_bit-score>
+      <Hsp_score>1192</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>634</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>637</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>637</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|1751286945|ref|XM_010379716.2|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus roxellana interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_010379716</Hit_accession>
+  <Hit_len>1188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1073.39</Hsp_bit-score>
+      <Hsp_score>1189</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>120</Hsp_hit-from>
+      <Hsp_hit-to>757</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCTAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|1059133017|ref|XM_017871559.1|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus bieti interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_017871559</Hit_accession>
+  <Hit_len>1184</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1073.39</Hsp_bit-score>
+      <Hsp_score>1189</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>120</Hsp_hit-from>
+      <Hsp_hit-to>757</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCTAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|795175195|ref|XM_011944173.1|</Hit_id>
+  <Hit_def>PREDICTED: Colobus angolensis palliatus interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_011944173</Hit_accession>
+  <Hit_len>1189</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1073.39</Hsp_bit-score>
+      <Hsp_score>1189</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>122</Hsp_hit-from>
+      <Hsp_hit-to>759</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACCGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|1788696418|ref|XM_023215964.2|</Hit_id>
+  <Hit_def>PREDICTED: Piliocolobus tephrosceles interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_023215964</Hit_accession>
+  <Hit_len>1182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1071.59</Hsp_bit-score>
+      <Hsp_score>1187</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>634</Hsp_query-to>
+      <Hsp_hit-from>118</Hsp_hit-from>
+      <Hsp_hit-to>754</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>637</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACCGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCGCAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|259130366|gb|GQ507794.1|</Hit_id>
+  <Hit_def>Papio anubis interleukin 6 mRNA, complete cds</Hit_def>
+  <Hit_accession>GQ507794</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1070.68</Hsp_bit-score>
+      <Hsp_score>1186</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCGCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGTCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| || ||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|1799527|dbj|AB000554.1|</Hit_id>
+  <Hit_def>Macaca fascicularis mRNA for interleukin-6 precursor, complete cds</Hit_def>
+  <Hit_accession>AB000554</Hit_accession>
+  <Hit_len>683</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1070.68</Hsp_bit-score>
+      <Hsp_score>1186</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>621</Hsp_identity>
+      <Hsp_positive>621</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|1411149118|ref|XM_025381049.1|</Hit_id>
+  <Hit_def>PREDICTED: Theropithecus gelada interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_025381049</Hit_accession>
+  <Hit_len>1190</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.88</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>122</Hsp_hit-from>
+      <Hsp_hit-to>759</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCTTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| |||||||||||||||||||||||||||| |||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|1381508328|ref|XM_011731148.2|</Hit_id>
+  <Hit_def>PREDICTED: Macaca nemestrina interleukin 6 (IL6), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_011731148</Hit_accession>
+  <Hit_len>2926</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.88</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>1858</Hsp_hit-from>
+      <Hsp_hit-to>2495</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|1381508327|ref|XM_011731147.2|</Hit_id>
+  <Hit_def>PREDICTED: Macaca nemestrina interleukin 6 (IL6), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_011731147</Hit_accession>
+  <Hit_len>2964</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.88</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>1896</Hsp_hit-from>
+      <Hsp_hit-to>2533</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|1154067741|ref|NM_001287316.1|</Hit_id>
+  <Hit_def>Macaca fascicularis interleukin 6 (IL6), mRNA</Hit_def>
+  <Hit_accession>NM_001287316</Hit_accession>
+  <Hit_len>683</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.88</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>638</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|795614446|ref|XM_011731149.1|</Hit_id>
+  <Hit_def>PREDICTED: Macaca nemestrina interleukin 6 (IL6), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_011731149</Hit_accession>
+  <Hit_len>1195</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.88</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>127</Hsp_hit-from>
+      <Hsp_hit-to>764</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|418203917|ref|NM_001042733.2|</Hit_id>
+  <Hit_def>Macaca mulatta interleukin 6 (IL6), mRNA</Hit_def>
+  <Hit_accession>NM_001042733</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1068.88</Hsp_bit-score>
+      <Hsp_score>1184</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>638</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|57117472|gb|AY849928.1|</Hit_id>
+  <Hit_def>Macaca thibetana interleukin 6 precursor (IL6) mRNA, complete cds</Hit_def>
+  <Hit_accession>AY849928</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1066.18</Hsp_bit-score>
+      <Hsp_score>1181</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGCCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|514385|gb|L26028.1|MACIN6A</Hit_id>
+  <Hit_def>Macaca mulatta interleukin 6 mRNA, complete cds</Hit_def>
+  <Hit_accession>L26028</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1066.18</Hsp_bit-score>
+      <Hsp_score>1181</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>620</Hsp_identity>
+      <Hsp_positive>620</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAAATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAACCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||| ||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||| |||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|1476363821|ref|NM_001173536.3|</Hit_id>
+  <Hit_def>Papio anubis interleukin 6 (IL6), mRNA</Hit_def>
+  <Hit_accession>NM_001173536</Hit_accession>
+  <Hit_len>1110</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1064.37</Hsp_bit-score>
+      <Hsp_score>1179</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>42</Hsp_hit-from>
+      <Hsp_hit-to>679</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>619</Hsp_identity>
+      <Hsp_positive>619</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCGCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGTCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| || ||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|795205435|ref|XM_012081125.1|</Hit_id>
+  <Hit_def>PREDICTED: Cercocebus atys interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_012081125</Hit_accession>
+  <Hit_len>1185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1064.37</Hsp_bit-score>
+      <Hsp_score>1179</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>117</Hsp_hit-from>
+      <Hsp_hit-to>754</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>619</Hsp_identity>
+      <Hsp_positive>619</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGCTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|795101231|ref|XM_011973917.1|</Hit_id>
+  <Hit_def>PREDICTED: Mandrillus leucophaeus interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_011973917</Hit_accession>
+  <Hit_len>1190</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1064.37</Hsp_bit-score>
+      <Hsp_score>1179</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>122</Hsp_hit-from>
+      <Hsp_hit-to>759</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>619</Hsp_identity>
+      <Hsp_positive>619</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGCTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1938862938|ref|XM_007981902.2|</Hit_id>
+  <Hit_def>PREDICTED: Chlorocebus sabaeus interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_007981902</Hit_accession>
+  <Hit_len>1185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1064.37</Hsp_bit-score>
+      <Hsp_score>1179</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>117</Hsp_hit-from>
+      <Hsp_hit-to>754</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>619</Hsp_identity>
+      <Hsp_positive>619</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATTACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACGTGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||||||| ||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||| |||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|514341|gb|L26032.1|CEYIN6A</Hit_id>
+  <Hit_def>Cercocebus torquatus interleukin 6 mRNA, complete cds</Hit_def>
+  <Hit_accession>L26032</Hit_accession>
+  <Hit_len>639</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1061.67</Hsp_bit-score>
+      <Hsp_score>1176</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>636</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>639</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>619</Hsp_identity>
+      <Hsp_positive>619</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>639</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_qseq>
+      <Hsp_hseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGACAGCACCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGCTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTCCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||| |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||| |||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|1825929810|ref|XM_033193204.1|</Hit_id>
+  <Hit_def>PREDICTED: Trachypithecus francoisi interleukin 6 (IL6), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_033193204</Hit_accession>
+  <Hit_len>1690</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1059.86</Hsp_bit-score>
+      <Hsp_score>1174</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>622</Hsp_hit-from>
+      <Hsp_hit-to>1259</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>618</Hsp_identity>
+      <Hsp_positive>618</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>638</Hsp_align-len>
+      <Hsp_qseq>ATGAACTCCTTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>ATGAATTCCGTCTCCACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCCGCCTTCCCTGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACCGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGTCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>||||| ||| ||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||| ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| |||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1059133015|ref|XM_017871558.1|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus bieti interleukin 6 (IL6), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_017871558</Hit_accession>
+  <Hit_len>1346</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1048.14</Hsp_bit-score>
+      <Hsp_score>1161</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>296</Hsp_hit-from>
+      <Hsp_hit-to>919</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>607</Hsp_identity>
+      <Hsp_positive>607</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>624</Hsp_align-len>
+      <Hsp_qseq>CACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>CACAGGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCTAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|795175190|ref|XM_011944172.1|</Hit_id>
+  <Hit_def>PREDICTED: Colobus angolensis palliatus interleukin 6 (IL6), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_011944172</Hit_accession>
+  <Hit_len>1287</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1048.14</Hsp_bit-score>
+      <Hsp_score>1161</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>234</Hsp_hit-from>
+      <Hsp_hit-to>857</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>607</Hsp_identity>
+      <Hsp_positive>607</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>624</Hsp_align-len>
+      <Hsp_qseq>CACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>CACAGGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACCGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCGCAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|1297665842|ref|XM_023215963.1|</Hit_id>
+  <Hit_def>PREDICTED: Piliocolobus tephrosceles interleukin 6 (IL6), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_023215963</Hit_accession>
+  <Hit_len>1034</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1046.34</Hsp_bit-score>
+      <Hsp_score>1159</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>634</Hsp_query-to>
+      <Hsp_hit-from>177</Hsp_hit-from>
+      <Hsp_hit-to>799</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>606</Hsp_identity>
+      <Hsp_positive>606</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>623</Hsp_align-len>
+      <Hsp_qseq>CACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_qseq>
+      <Hsp_hseq>CACAGGCGCCTTCGGTCCAGTTGCCTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACACATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACCGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGCAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCGCAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||||||||||||||||||   |||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|1411149116|ref|XM_025381048.1|</Hit_id>
+  <Hit_def>PREDICTED: Theropithecus gelada interleukin 6 (IL6), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_025381048</Hit_accession>
+  <Hit_len>1288</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>1043.63</Hsp_bit-score>
+      <Hsp_score>1156</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>15</Hsp_query-from>
+      <Hsp_query-to>635</Hsp_query-to>
+      <Hsp_hit-from>234</Hsp_hit-from>
+      <Hsp_hit-to>857</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>606</Hsp_identity>
+      <Hsp_positive>606</Hsp_positive>
+      <Hsp_gaps>3</Hsp_gaps>
+      <Hsp_align-len>624</Hsp_align-len>
+      <Hsp_qseq>CACAAGCGCCTTCGGTCCAGTTGCCTTCTCCCTG---CTGCTCCTGGTGTTGCCTGCTGCCTTCCCTGCCCCAGTACCCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGACAGCCACTCACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAAGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGAGACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGATTTGAGAGTAGTGAGGAACAAGCCAGAGCTGTGCAGATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGACCCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACAACTCATCTCATTCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_qseq>
+      <Hsp_hseq>CACAGGCGCCTTCGGTCCAGTTGCTTTCTCCCTGGGGCTGCTCCTGGTGTTGCCTGCTGCCTTCCCCGCCCCAGTACTCCCAGGAGAAGATTCCAAAGATGTAGCCGCCCCACACAGCCAGCCACTGACCTCTTCAGAACGAATTGACAAACAAATTCGGTACATCCTCGACGGCATCTCAGCCCTGAGAAAGGAGACATGTAACAGGAGTAACATGTGTGAAAGCAGCAAAGAGGCACTGGCAGAAAACAACCTGAACCTTCCAAAGATGGCTGAAAAAGATGGATGCTTCCAATCTGGATTCAATGAGGACACTTGCCTGGTGAAAATCATCACTGGTCTTTTGGAGTTTGAGGTATACCTAGAGTACCTCCAGAACAGGTTTGAGAGTAGTGAGGAGCAAGCCAGAGCTGTGCAAATGAGTACAAAAGTCCTGATCCAGTTCCTGCAGAAAAAGGCAAAGAATCTAGATGCAATAACCACCCCTGAACCAACCACAAATGCCAGCCTGCTGACGAAGCTGCAGGCACAGAACCAGTGGCTGCAGGACATGACGACGCATCTCATCCTGCGCAGCTTTAAGGAGTTCCTGCAGTCCAGCCTGAGGGCTCTTCGGCAAATGTA</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||||||||||||| |||||||||   ||||||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| || |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>85208243</Statistics_db-num>
+      <Statistics_db-len>844076966784</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
