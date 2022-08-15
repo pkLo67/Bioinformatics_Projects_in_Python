@@ -1,0 +1,3 @@
+# RNA-seq Data Analysis using python
+
+For the demonstation of this program, Bowtie 2 is used for aligning RNA-seq data (Fastq) to mouse CDS reference sequences.
